@@ -4,9 +4,9 @@ This is the Android version for the Rose-Hulman CSSE371-04 Junior Project for th
 
 ## Todo ##
 
-* Add more views
-* Update DatabaseAdapter as calls are implemented
-* Check for available internet connection
+* Add more Views
+* Create / Optimize DatabaseAdapters
+* Check for available internet connection before accessing database
 
 ## Requirements ##
 
